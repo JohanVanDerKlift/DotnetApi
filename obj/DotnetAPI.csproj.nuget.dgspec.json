@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Johan\\RiderProjects\\DotnetApi\\DotnetAPI.csproj": {}
+    "C:\\Users\\jklif\\RiderProjects\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Johan\\RiderProjects\\DotnetApi\\DotnetAPI.csproj": {
+    "C:\\Users\\jklif\\RiderProjects\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Johan\\RiderProjects\\DotnetApi\\DotnetAPI.csproj",
+        "projectUniqueName": "C:\\Users\\jklif\\RiderProjects\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj",
         "projectName": "DotnetAPI",
-        "projectPath": "C:\\Users\\Johan\\RiderProjects\\DotnetApi\\DotnetAPI.csproj",
-        "packagesPath": "C:\\Users\\Johan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Johan\\RiderProjects\\DotnetApi\\obj\\",
+        "projectPath": "C:\\Users\\jklif\\RiderProjects\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj",
+        "packagesPath": "C:\\Users\\jklif\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jklif\\RiderProjects\\dotnet-course-code\\DotnetAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jklif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

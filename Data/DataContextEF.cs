@@ -1,4 +1,6 @@
-﻿using DotnetAPI.Models;
+﻿using AutoMapper;
+using DotnetAPI.Dtos;
+using DotnetAPI.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 
@@ -7,6 +9,7 @@ namespace DotnetAPI.Data
     public class DataContextEF : DbContext
     {
         private readonly IConfiguration _config;
+        
 
         public DataContextEF(IConfiguration config)
         {
