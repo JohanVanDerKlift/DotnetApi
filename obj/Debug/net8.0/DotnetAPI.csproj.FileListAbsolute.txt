@@ -146,3 +146,4 @@ C:\Users\jklif\RiderProjects\dotnet-course-code\DotnetAPI\bin\Debug\net8.0\Micro
 C:\Users\jklif\RiderProjects\dotnet-course-code\DotnetAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\jklif\RiderProjects\dotnet-course-code\DotnetAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\jklif\RiderProjects\dotnet-course-code\DotnetAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jklif\RiderProjects\dotnet-course-code\DotnetAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
