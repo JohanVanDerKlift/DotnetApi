@@ -48,14 +48,14 @@ public class UserCompleteController : ControllerBase
     public IActionResult UpsertUser(UserComplete user)
     {
         string sql = @"EXEC TutorialAppSchema.spUser_Upsert
-             @[FirstName] = '" + user.FirstName +
+                        @[FirstName] = '" + user.FirstName +
                      "', @LastName = '" + user.LastName +
                      "', @Email = '" + user.Email +
                      "', @Gender = '" + user.Gender +
                      "', @Active = '" + user.Active +
-                     "', @Active = '" + user.JobTitle +
-                     "', @Active = '" + user.Department +
-                     "', @Active = '" + user.Salary +
+                     "', @JobTitle = '" + user.JobTitle +
+                     "', @Department = '" + user.Department +
+                     "', @Salary = '" + user.Salary +
                      "', @UserId = " + user.UserId;
         if (_dapper.ExecuteSql(sql))
         {
