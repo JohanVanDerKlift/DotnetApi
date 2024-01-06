@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jklif\\RiderProjects\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj": {}
+    "C:\\Users\\jklif\\riderprojects\\dotnet-course-code\\dotnetapi\\DotnetAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jklif\\RiderProjects\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj": {
+    "C:\\Users\\jklif\\riderprojects\\dotnet-course-code\\dotnetapi\\DotnetAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jklif\\RiderProjects\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj",
+        "projectUniqueName": "C:\\Users\\jklif\\riderprojects\\dotnet-course-code\\dotnetapi\\DotnetAPI.csproj",
         "projectName": "DotnetAPI",
-        "projectPath": "C:\\Users\\jklif\\RiderProjects\\dotnet-course-code\\DotnetAPI\\DotnetAPI.csproj",
+        "projectPath": "C:\\Users\\jklif\\riderprojects\\dotnet-course-code\\dotnetapi\\DotnetAPI.csproj",
         "packagesPath": "C:\\Users\\jklif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jklif\\RiderProjects\\dotnet-course-code\\DotnetAPI\\obj\\",
+        "outputPath": "C:\\Users\\jklif\\riderprojects\\dotnet-course-code\\dotnetapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
